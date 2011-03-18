@@ -9,5 +9,5 @@ case $d in
 	5) echo thurs;;
 	6) echo fri;;
 	7) echo sat;;
-	*) echo invalid day
+	*) echo invalid day;;
 esac
